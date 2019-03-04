@@ -1,0 +1,120 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: #b824a4;
+    font-style: italic;
+    font-size: 1.5em;
+    font-weight: bolder;
+    
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.all{
+    display: flex;
+    flex-direction: column;
+    
+}
+.artitle{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 1.15em;
+    text-decoration: underline;
+    text-decoration-color: #a7d129;
+    font-weight: bold;
+}
+.content{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.micro{
+    background-color: #faf562;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-radius: 0.75em;
+
+}
+.intel{
+    display: flex;
+    flex-wrap: wrap;
+    
+    border-radius: 0.75em;
+    margin: 5px;
+    background-color: #1f3c88
+}
+.intel1{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #1f3c66;
+    border-radius: 0.75em;
+    margin: 5px;
+}
+ul{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.intel2{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #1f3c44;
+    border-radius: 0.75em;
+    margin: 5px;
+}
+.amd1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #df4d19;
+    border-radius: 0.75em;
+    margin: 5px;
+}
+.amd2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #df3319;
+    border-radius: 0.75em;
+    margin: 5px;
+}
+.amd3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #df2b11;
+    border-radius: 0.75em;
+    margin: 5px;
+}
+.amd3 ul li{
+    justify-content: flex-end;
+}
+.amd4{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    background-color: #df3e33;
+    border-radius: 0.75em;
+}
+.amd5{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #ce4d55;
+    border-radius: 0.75em;
+    margin: 5px;
+}
+.amd6{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #bd4d77;
+    border-radius: 0.75em;
+    margin: 5px;
+}
+.amd7{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #bc4d99;
+    border-radius: 0.75em;
+    margin: 5px;
+}
