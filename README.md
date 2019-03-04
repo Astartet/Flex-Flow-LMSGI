@@ -1,5 +1,5 @@
-#Tecnologías de los microprocesadores con flexbox
-Utliliza flexbox para mostrar el siguiente contenido a modo de artículos. Para ello:
+# Tecnologías de los microprocesadores con flexbox
+# Utliliza flexbox para mostrar el siguiente contenido a modo de artículos. Para ello:
 
 1. Cada artículo hará referencia a una de las tecnologías de los microprocesadores vistas en el apartado 4.5 del documento adjunto
 2. Utiliza la propiedad flex-flow
@@ -11,8 +11,8 @@ Utliliza flexbox para mostrar el siguiente contenido a modo de artículos. Para 
 8. Redondea de forma asimétrica los bordes de los artículos.
 9. En este caso olvídate de la estructura header, footer...
 
-#---------------------------------------------------------
-#Debes entregar:
+# ---------------------------------------------------------
+# Debes entregar:
 
 1. url en github.io
 2. url del .css
