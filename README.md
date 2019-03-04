@@ -14,8 +14,12 @@
 # ---------------------------------------------------------
 # Debes entregar:
 
-1. url en github.io
-2. url del .css
-3. url del .html
-4. url de la paleta utilizada, por ejemplo: https://colorhunt.co/palette/139667
+1. url en github.io --> [Flex IO](https://jorgermasir.github.io/Flex-Flow-LMSGI/) 
+2. url del .css --> [CSS](https://github.com/jorgermasir/Flex-Flow-LMSGI/blob/master/style.css)
+3. url del .html --> [HTML](https://github.com/jorgermasir/Flex-Flow-LMSGI/blob/master/index.html)
+4. url de la paleta utilizada --> https://colorhunt.co/palette/139458 , https://colorhunt.co/palette/140172
 5. Tipo de letra utilizada en cada caso
+# h2 --> font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+# .artitle --> font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+# h1 --> font-family: 'Times New Roman', Times, serif;
+# .content --> font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
